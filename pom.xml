@@ -6,10 +6,7 @@
 	<groupId>fr.jdev</groupId>
 	<artifactId>bacasable</artifactId>
 	<version>1.00-SNAPSHOT</version>
-	<organization>
-		<name>JDev</name>
-		<url>https://jdev.fr</url>
-	</organization>
+	<name>Bac à sable JDev</name>
 	<scm>
 		<url>https://github.com/pierrejego/bacasable</url>
 		<connection>scm:git:https://github.com/pierrejego/bacasable</connection>
@@ -17,4 +14,5 @@
 	<issueManagement>
 		<url>https://github.com/pierrejego/bacasable/issues</url>
 	</issueManagement>
+	<packaging>pom</packaging>
 </project>
